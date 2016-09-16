@@ -49,7 +49,7 @@ b) What does the callback to this function return? (a string, an object, a boole
 
 
 
-4. add a method to the toolbelt object that takes in an array, passes each element and index of the array into a callback function
+4. add a method to the toolbelt object that takes in an array and returns an accumulation of the elements in the array. The method takes in three parameters: the array, the callback, and whatever you want to initialize the accumulator at. The function should loop through the array, and for each element, redefine the accumulator to whatever the callback returns. You should pass into the callback the accumulator itself and the element. The function should return the accumulator.
 
 
 

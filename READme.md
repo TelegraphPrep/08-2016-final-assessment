@@ -10,6 +10,8 @@
 
 - There are no individual READme files; all the instructions you need are in the .js files themselves.
 
+- I would recommend not using the internet (google, stack overflow, etc) and not consulting your notes. At this point you want to test what you really know in an interviewing context where you won't have access to those resources.
+
 - Note that the entirety of each .js file is commented out. This is to help you practice writing code that 1) you cannot run, and 2) with no syntax highlighting to help you. This is to simulate the testing environment, and it can be jarring in an interview if you haven't practiced it before. 
 
 - You may want to practice speaking through each solution out loud, as this is likely what you'll need to be able to do in an actual interview.
